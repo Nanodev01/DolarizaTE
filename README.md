@@ -4,6 +4,6 @@ Mi primer aplicacion usando API - Conversor de $ARS a U$D en su diferentes cotiz
 
 ------------------------------------------------------------------
 
-Aplicacion hecha en C# con el uso de la API de [https://dolarapi.com/docs/argentina/](DolarApi)
+Aplicacion hecha en C# con el uso de la API de [DolarApi](https://dolarapi.com/docs/argentina/)
 
 ***©NanoDev***
