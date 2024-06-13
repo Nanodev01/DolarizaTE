@@ -1,4 +1,5 @@
 # <u>DolarizaTE</u>
 
-## Mi primer aplicacion usando API - Conversor de pesos Argentinos a Dolares en su diferentes cotizaciones/
--
+Mi primer aplicacion usando API - Conversor de $ARS a U$D en su diferentes cotizaciones
+
+------------------------------------------------------------------
